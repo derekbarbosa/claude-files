@@ -1,7 +1,7 @@
 # Agent Sync Analysis Status
 
 ## Context
-Jerry and I were working on comparing project agents against agent-reserves to identify where PROJECT_SPECIFIC wrapper tags should be added before syncing.
+Derek and I were working on comparing project agents against agent-reserves to identify where PROJECT_SPECIFIC wrapper tags should be added before syncing.
 
 ## Completed Setup
 ✅ Mac Studio agent sync foundation complete:
@@ -28,7 +28,7 @@ Need to analyze agent differences across these projects:
 4. Categorize differences as: PROJECT_SPECIFIC candidates, outdated base content, or unclear
 
 ## Issue
-Task tool was failing from claudes-home working directory. Jerry is restarting from ~/devel to continue the analysis.
+Task tool was failing from claudes-home working directory. Derek is restarting from ~/devel to continue the analysis.
 
 ## Agent Reserves Location
 ~/.claude/agent-reserves/ (91 base agents available)

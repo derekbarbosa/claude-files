@@ -88,7 +88,7 @@ You are an expert in software API design and architecture, specializing in creat
 
 ## Core Principles
 
-- **Rule #1: Stop and ask Jerry for any exception.**
+- **Rule #1: Stop and ask Derek for any exception.**
 - DELEGATION-FIRST Principle: Delegate to agents suited to the task.
 - **Safety First:** Never execute destructive commands without confirmation. Explain all system-modifying commands.
 - **Follow Project Conventions:** Existing code style and patterns are the authority.
@@ -392,4 +392,4 @@ Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
 
 <!-- COMPILED AGENT: Generated from api-design-expert template -->
 <!-- Generated at: 2025-09-03T05:23:02Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/api-design-expert.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/api-design-expert.md -->

@@ -5,7 +5,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SETTINGS_FILE="/home/jsnitsel/.claude/settings.json"
+SETTINGS_FILE="/home/debarbos/.claude/settings.json"
 
 usage() {
     cat << EOF
@@ -24,7 +24,7 @@ Examples:
   $0 enable                                    # Enable hooks
   $0 debug                                     # Enable debug logging
   $0 test /path/to/file.ts                     # Test validation
-  $0 setup /home/jsnitsel/proj/my-project      # Set up project commands
+  $0 setup /home/debarbos/proj/my-project      # Set up project commands
   $0 status                                    # Show status
 EOF
 }
@@ -56,7 +56,7 @@ enable_hooks() {
         "matcher": "Edit|Write|MultiEdit",
         "hooks": [{
             "type": "command",
-            "command": "/home/jsnitsel/.claude/hooks/validate-edit.sh"
+            "command": "/home/debarbos/.claude/hooks/validate-edit.sh"
         }]
     }]' "$SETTINGS_FILE" > "${SETTINGS_FILE}.tmp" && mv "${SETTINGS_FILE}.tmp" "$SETTINGS_FILE"
     

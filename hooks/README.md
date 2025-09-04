@@ -39,7 +39,7 @@ The hooks are configured in `~/.claude/settings.json`:
         "hooks": [
           {
             "type": "command",
-            "command": "/home/jsnitsel/.claude/hooks/validate-edit.sh"
+            "command": "/home/debarbos/.claude/hooks/validate-edit.sh"
           }
         ]
       }

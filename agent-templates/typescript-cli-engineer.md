@@ -163,4 +163,4 @@ Full tool access including Read, Write, Edit, MultiEdit, Grep, Glob, Bash, and z
 
 <!-- COMPILED AGENT: Generated from typescript-cli-engineer template -->
 <!-- Generated at: 2025-08-31T17:05:13Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/typescript-cli-engineer.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/typescript-cli-engineer.md -->

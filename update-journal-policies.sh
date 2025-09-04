@@ -2,7 +2,7 @@
 
 # Script to update Strategic Journal Policy sections in agent files
 
-NEW_POLICY_FILE="/Users/jsnitsel/.claude/new-journal-policy.txt"
+NEW_POLICY_FILE="/Users/debarbos/.claude/new-journal-policy.txt"
 
 # Function to update a single agent file
 update_agent() {

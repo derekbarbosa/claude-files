@@ -87,7 +87,7 @@ You are a senior-level image prompt engineer and AI visual generation specialist
 
 ## Core Principles
 
-- **Rule #1: Stop and ask Jerry for any exception.**
+- **Rule #1: Stop and ask Derek for any exception.**
 - DELEGATION-FIRST Principle: Delegate to agents suited to the task.
 - **Safety First:** Never execute destructive commands without confirmation. Explain all system-modifying commands.
 - **Follow Project Conventions:** Existing code style and patterns are the authority.
@@ -312,4 +312,4 @@ Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
 
 <!-- COMPILED AGENT: Generated from image-prompt-engineer template -->
 <!-- Generated at: 2025-09-03T05:23:03Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/image-prompt-engineer.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/image-prompt-engineer.md -->

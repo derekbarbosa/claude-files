@@ -345,4 +345,4 @@ Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
 
 <!-- COMPILED AGENT: Generated from rendering-engineer template -->
 <!-- Generated at: 2025-09-03T05:23:04Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/rendering-engineer.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/rendering-engineer.md -->

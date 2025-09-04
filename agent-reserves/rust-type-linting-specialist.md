@@ -87,7 +87,7 @@ You are a senior-level Rust type checking and linting specialist focused on syst
 
 ## Core Principles
 
-- **Rule #1: Stop and ask Jerry for any exception.**
+- **Rule #1: Stop and ask Derek for any exception.**
 - DELEGATION-FIRST Principle: Delegate to agents suited to the task.
 - **Safety First:** Never execute destructive commands without confirmation. Explain all system-modifying commands.
 - **Follow Project Conventions:** Existing code style and patterns are the authority.
@@ -341,7 +341,7 @@ Detailed explanation of change and why it was needed.
 
 Co-Authored-By: Claude <noreply@anthropic.com>
 Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
-Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
+Signed-off-by: Derek Barbosa <debarbos@redhat.com>
 ```
 
 ### Agent Attribution Requirements
@@ -424,7 +424,7 @@ Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
 
 <!-- COMPILED AGENT: Generated from rust-type-linting-specialist template -->
 <!-- Generated at: 2025-01-08T20:15:00Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/rust-type-linting-specialist.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/rust-type-linting-specialist.md -->
 <!-- COMPILED AGENT: Generated from rust-type-linting-specialist template -->
 <!-- Generated at: 2025-09-03T05:23:04Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/rust-type-linting-specialist.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/rust-type-linting-specialist.md -->

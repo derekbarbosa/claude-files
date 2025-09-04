@@ -20,4 +20,4 @@ Generate a concise, strategic compact string for /compact based on our current c
 Search recent journal entries for key insights that should be preserved across context resets, particularly technical discoveries, failed approaches, and established working patterns.
 
 **Output Format:**
-Provide a concise compact string that Jerry can copy and use directly with /compact, optimized to preserve essential context while efficiently managing token usage and maintaining continuity across sessions.
+Provide a concise compact string that Derek can copy and use directly with /compact, optimized to preserve essential context while efficiently managing token usage and maintaining continuity across sessions.

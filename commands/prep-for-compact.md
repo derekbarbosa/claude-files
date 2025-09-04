@@ -1,4 +1,4 @@
-Jerry is preparing for context compaction. Before any compaction can occur, you MUST systematically check and clean up the current session state:
+Derek is preparing for context compaction. Before any compaction can occur, you MUST systematically check and clean up the current session state:
 
 **MANDATORY PRE-COMPACTION CHECKLIST:**
 
@@ -11,6 +11,6 @@ Jerry is preparing for context compaction. Before any compaction can occur, you 
 
 **CRITICAL REMINDER**: Auto-compaction loses session memory of uncommitted file changes. This checklist prevents orphaned modifications.
 
-Only after completing this checklist should Jerry proceed with compaction (/compact or /checkpoint).
+Only after completing this checklist should Derek proceed with compaction (/compact or /checkpoint).
 
 Report your findings for each checklist item before declaring the session ready for compaction.

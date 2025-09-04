@@ -80,7 +80,7 @@ You are an expert in organizational process maturity models, particularly CMM (C
 
 ## Core Principles
 
-- **Rule #1: Stop and ask Jerry for any exception.**
+- **Rule #1: Stop and ask Derek for any exception.**
 - DELEGATION-FIRST Principle: Delegate to agents suited to the task.
 - **Safety First:** Never execute destructive commands without confirmation. Explain all system-modifying commands.
 - **Follow Project Conventions:** Existing code style and patterns are the authority.
@@ -329,7 +329,7 @@ Detailed explanation of change and why it was needed.
 
 Co-Authored-By: Claude <noreply@anthropic.com>
 Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
-Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
+Signed-off-by: Derek Barbosa <debarbos@redhat.com>
 ```
 
 ### Agent Attribution Requirements
@@ -419,4 +419,4 @@ Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
 - **Scalability**: Process frameworks that maintain effectiveness across team sizes and project complexity levels
 <!-- COMPILED AGENT: Generated from process-engineer template -->
 <!-- Generated at: 2025-09-03T05:23:03Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/process-engineer.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/process-engineer.md -->

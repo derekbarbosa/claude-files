@@ -438,4 +438,4 @@ Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
 
 <!-- COMPILED AGENT: Generated from process-orchestration-specialist template -->
 <!-- Generated at: 2025-09-03T05:23:03Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/process-orchestration-specialist.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/process-orchestration-specialist.md -->

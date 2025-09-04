@@ -182,4 +182,4 @@ Full tool access including Read, Write, Edit, MultiEdit, Grep, Glob, Bash, zen d
 
 <!-- COMPILED AGENT: Generated from agent-prompt-engineer template -->
 <!-- Generated at: 2025-09-01T12:15:30Z -->
-<!-- Source template: /home/jsnitsel/claudes-home/templates/agent-prompt.md -->
+<!-- Source template: /home/debarbos/claudes-home/templates/agent-prompt.md -->

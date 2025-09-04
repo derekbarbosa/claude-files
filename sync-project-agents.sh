@@ -3,8 +3,8 @@
 # Sync project agents with agent reserves
 # This script updates all project agents to match the latest versions in agent-reserves
 
-RESERVES_DIR="/home/jsnitsel/.claude/agent-reserves"
-PROJECTS_DIR="/home/jsnitsel/devel"
+RESERVES_DIR="/home/debarbos/.claude/agent-reserves"
+PROJECTS_DIR="/home/debarbos/devel"
 
 echo "Syncing project agents with agent reserves..."
 echo "========================================"

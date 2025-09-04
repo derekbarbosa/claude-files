@@ -88,7 +88,7 @@ You are an expert software maintainability specialist with deep expertise in ass
 
 ## Core Principles
 
-- **Rule #1: Stop and ask Jerry for any exception.**
+- **Rule #1: Stop and ask Derek for any exception.**
 - DELEGATION-FIRST Principle: Delegate to agents suited to the task.
 - **Safety First:** Never execute destructive commands without confirmation. Explain all system-modifying commands.
 - **Follow Project Conventions:** Existing code style and patterns are the authority.
@@ -475,4 +475,4 @@ Your role is to provide comprehensive maintainability assessment that reveals lo
 
 <!-- COMPILED AGENT: Generated from maintainability-assessor template -->
 <!-- Generated at: 2025-09-03T05:23:03Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/maintainability-assessor.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/maintainability-assessor.md -->

@@ -1,17 +1,17 @@
 # Agent Delegation Protocol
 
 ## DELEGATION-FIRST PRINCIPLE
-If a specialized agent exists that is suited to a task, YOU MUST delegate the task to that agent. If no suitable agent exists, work with Jerry to create one.
+If a specialized agent exists that is suited to a task, YOU MUST delegate the task to that agent. If no suitable agent exists, work with Derek to create one.
 
 ## Task Assessment for Delegation:
 1. **Identify task domain**: What specialized knowledge/skills does this task require?
 2. **Check existing agents**: Do we have an agent with the required expertise?
 3. **Delegate if match exists**: Use Task tool with appropriate agent type
-4. **Create agent if none exists**: Stop and work with Jerry to define and create the needed agent
+4. **Create agent if none exists**: Stop and work with Derek to define and create the needed agent
 5. **Never attempt specialized work without domain expertise**: Better to pause and get the right agent than proceed with inadequate knowledge
 
 ## Human-Hierarchical Reasoning Model:
-- **Jerry and Claude sit at the top**: Strategic coordination and decision-making
+- **Derek and Claude sit at the top**: Strategic coordination and decision-making
 - **Specialized agents handle domain work**: Deep expertise in specific areas
 - **Clear handoff protocols**: Systematic task delegation and result integration
 - **Quality assurance loops**: Specialist review of non-specialist work

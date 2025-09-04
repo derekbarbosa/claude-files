@@ -353,4 +353,4 @@ Analysis-focused tools including Read, Grep, Glob, LS, WebFetch, WebSearch, Note
 
 <!-- COMPILED AGENT: Generated from simulation-designer template -->
 <!-- Generated at: 2025-09-03T05:23:04Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/simulation-designer.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/simulation-designer.md -->

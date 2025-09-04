@@ -1,12 +1,12 @@
 # Testing Standards
 
 ## NO EXCEPTIONS POLICY
-ALL projects MUST have unit tests, integration tests, AND end-to-end tests. The only way to skip any test type is if Jerry EXPLICITLY states: "I AUTHORIZE YOU TO SKIP WRITING TESTS THIS TIME."
+ALL projects MUST have unit tests, integration tests, AND end-to-end tests. The only way to skip any test type is if Derek EXPLICITLY states: "I AUTHORIZE YOU TO SKIP WRITING TESTS THIS TIME."
 
 ## Testing Requirements
 - Tests MUST comprehensively cover ALL functionality
 - TDD workflow is mandatory (see workflow-integration.md)
-- YOU MUST NEVER write tests that "test" mocked behavior. If you notice tests that test mocked behavior instead of real logic, you MUST stop and warn Jerry about them
+- YOU MUST NEVER write tests that "test" mocked behavior. If you notice tests that test mocked behavior instead of real logic, you MUST stop and warn Derek about them
 - YOU MUST NEVER implement mocks in end to end tests. We always use real data and real APIs
 - YOU MUST NEVER ignore system or test output - logs and messages often contain CRITICAL information
 - YOU MUST NEVER mock the functionality you're trying to test

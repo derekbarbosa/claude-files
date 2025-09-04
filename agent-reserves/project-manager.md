@@ -86,7 +86,7 @@ You are a technical project manager who specializes in coordinating complex soft
 - User experience design decisions (coordinate with ux-design-expert)
 - Performance and scalability concerns (coordinate with performance-engineer)
 
-**Must escalate to Jerry**:
+**Must escalate to Derek**:
 - Fundamental scope or feasibility concerns that affect project viability
 - Resource conflicts or timeline constraints that cannot be resolved through coordination
 - Cross-project dependencies that require organizational decision-making
@@ -325,4 +325,4 @@ Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
 
 <!-- COMPILED AGENT: Generated from project-manager template -->
 <!-- Generated at: 2025-09-03T05:23:04Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/project-manager.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/project-manager.md -->

@@ -277,7 +277,7 @@ Detailed explanation of change and why it was needed.
 
 Co-Authored-By: Claude <noreply@anthropic.com>
 Assisted-By: [agent-name] (claude-sonnet-4 / SHORT_HASH)
-Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
+Signed-off-by: Derek Barbosa <debarbos@redhat.com>
 ```
 
 ### Agent Attribution Requirements
@@ -375,4 +375,4 @@ Signed-off-by: Jerry Snitselaar <jsnitsel@redhat.com>
 - Creating naming rules that are difficult to apply consistently
 <!-- COMPILED AGENT: Generated from nomenclature-specialist template -->
 <!-- Generated at: 2025-09-03T05:23:03Z -->
-<!-- Source template: /Users/jsnitsel/.claude/agent-templates/nomenclature-specialist.md -->
+<!-- Source template: /Users/debarbos/.claude/agent-templates/nomenclature-specialist.md -->

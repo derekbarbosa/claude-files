@@ -16,8 +16,8 @@ Arguments:
   output_file       Optional output file (default: project/.claude/quality-commands.json)
 
 Examples:
-  $0 /home/jsnitsel/proj/my-project
-  $0 /home/jsnitsel/proj/my-project custom-commands.json
+  $0 /home/debarbos/proj/my-project
+  $0 /home/debarbos/proj/my-project custom-commands.json
 EOF
 }
 
